@@ -327,6 +327,12 @@
 
 /* Styling;
  */
+
+.beyondPoster {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .noUi-target {
   background-color: rgba(182, 182, 182, 0.3);
   border-radius: 3px; }
@@ -2286,8 +2292,8 @@ p {
 
 .category {
   text-transform: uppercase;
-  font-weight: 700;
-  color: #9A9A9A; }
+  font-weight: 600;
+  color: #595959 }
 
 .text-primary {
   color:#659ed4 !important; }
